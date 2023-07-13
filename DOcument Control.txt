@@ -15,13 +15,16 @@ If we remove the user in the AD --> the y just remove the acccess to the user ( 
 		 - In Captions search EDIS
 		 - Employess Export EDIS file export to excel
 		 - A file is download to our local and open it and remove the first and last two rows in the file and save as the file 
-		 - Go to the Home page and delete the last one and add 
+		 - Go to the Home page and delete the last /Application/Docctr and add system/settings
+		 - Click on EDIS and go to staging data
+		 - Before doing the data import validate the file (employe num - Uniqe, lastname,firstname - need avalue ,
+		 - Click on Data import
+		   - select include employees into staging
+		   - select the file
+		   - It generates an error then go to the file and remove the "personresponsible coloumn"
+		   - Again data import
+		   - Again it generates an error an dwe add the personresponsible coloumn in between flag and company
+		   - click on import
+           
 		 
 		 
-		 
-
-
-SUppuort On ONBASE
-
-Kofax --> alex --> linked to opentext data
-edoc --> surendran --> get the data from opentext data
