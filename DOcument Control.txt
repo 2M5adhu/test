@@ -1,0 +1,27 @@
+Document control
+
+Synching heubach ad with intelex users
+If we remove the user in the AD --> the y just remove the acccess to the user ( due to if he update any hey will be erased or we can,t see)
+ --> to remove access 
+     --> Go to System Administration 
+         - Employees
+         - Select a User
+		 - Select User Access 
+		 - 
+ --> TO ADD
+	 --> Go to Home Page
+	     - Search Apps and reports and dashboards
+		 - in reports and dashboards select view all reportsand dashboards
+		 - In Captions search EDIS
+		 - Employess Export EDIS file export to excel
+		 - A file is download to our local and open it and remove the first and last two rows in the file and save as the file 
+		 - Go to the Home page and delete the last one and add 
+		 
+		 
+		 
+
+
+SUppuort On ONBASE
+
+Kofax --> alex --> linked to opentext data
+edoc --> surendran --> get the data from opentext data
